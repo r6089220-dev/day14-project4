@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "day14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": " node as.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
